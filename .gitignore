@@ -10,3 +10,10 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# GoLand files
+.idea/
+
+# Swap files for VIM
+*.swp
+*.swo
